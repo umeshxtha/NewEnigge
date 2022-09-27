@@ -1,0 +1,59 @@
+/* {
+    margin: 0px;
+    padding: 0px;
+} */
+.container-fluid{
+    padding: 0px;
+}
+
+:root
+{
+    --primary-color:#fc2a2a;
+}
+
+.navbar{
+    position: fixed;
+    overflow: hidden;
+    width: 100%;
+    background-color: #e9e8e6;
+}
+.logo{
+    margin-right: 1rem;
+    font-size: 32px;
+    text-decoration: none;
+    white-space: nowrap;
+    padding: 10px;
+    letter-spacing: 3px;
+}
+
+
+.navbar-brand {
+    padding-top: 0.3125rem;
+    padding-bottom: 0.3125rem;
+    margin-right: 1rem;
+    font-size: 32px;
+    text-decoration: none;
+    white-space: nowrap;
+}
+.nav-icon{
+    font-size: 16px;
+    padding-right: 30px;
+}
+.nav-icon a {
+    padding: 0px 7px;
+}
+.navbar-expand-lg .navbar-nav {
+    flex-direction: row;
+   
+    font-size: 17px;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgba(0,0,0,.55);
+    padding: 11px;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+   
+    border-bottom: 2px solid rgb(11, 126, 221);
+    width: fit-content;
+    padding-bottom: 6px; border-bottom: 2px solid rgb(11, 126, 221);
+}

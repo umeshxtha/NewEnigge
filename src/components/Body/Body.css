@@ -1,0 +1,29 @@
+.second-banner{
+    background: url('https://bootstrapmade.com/demo/templates/Kelly/assets/img/hero-bg.jpg') top right;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 100vh;
+}
+.header{
+    padding-top: 200px;
+    text-align: center;
+    
+}
+.header h1{
+    margin: 0;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 56px;
+    color: #222222;
+}
+.btn-info {
+    color: #fffcfb;
+    background-color: #24b4c7;
+    /* border-color: #0dcaf0; */
+    border-radius: 32px;
+    margin-top: 12px;
+    padding: 13px 40px;
+    font-size: 12px;
+    text-transform: uppercase;
+    font-weight: 600;
+}

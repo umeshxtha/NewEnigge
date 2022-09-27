@@ -1,0 +1,26 @@
+.select-area{
+    cursor: pointer;
+    display: inline-block;
+    padding: 8px 16px 10px 16px;
+    font-size: 13px;
+    font-weight: 500;
+   
+}
+.select-area-all{
+    cursor: pointer;
+    display: inline-block;
+    padding: 8px 16px 10px 16px;
+    font-size: 13px;
+    font-weight: 500;
+    background-color:#34b7a7;
+    border-radius: 50px;
+    color: white;
+}
+.select-area:hover{
+    background-color:#34b7a7;
+    color: white;
+    border-radius: 50px;
+}
+.select-row{
+    margin: 30px;
+}

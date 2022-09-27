@@ -1,0 +1,50 @@
+.resume-title{
+    font-size:26px ;
+    font-weight:400 ;
+    color: #222222;
+}
+.resume-item{
+    border-left:2px solid #11a8c1 ;
+    padding-left: 15px;
+}
+/* .resume-item::before{
+height: 15px;
+width: 15px;
+border-radius: 50%;
+content:"";
+background-color: #fdfdfd;
+border:2px solid #11a8c1 ;
+left: -8px;
+position: absolute;
+} */
+.resume-item h3{
+color:#11a8c1;
+}
+.resume-item:last-child{
+    padding-bottom: 0;
+}
+.resume-num{
+    background-color: #effbf9;
+    display: inline-block;
+    color: #34b7a7;
+    padding: 2px 10px;
+
+}
+.circle{
+    
+   
+    border-radius: 50%;
+    border: 2px solid #41b8c3;
+    height: 15px;
+    width: 15px;
+    margin-left: -6px;
+}
+
+.circle-one{
+    border-radius: 50%;
+    border: 2px solid #41b8c3;
+    height: 15px;
+    width: 15px;
+    margin-left: -6px;
+    margin-top: -16px;
+}

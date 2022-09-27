@@ -1,0 +1,15 @@
+.map{
+    width: 100%;
+}
+.contact-input{
+    width: 100%;
+    border: 1px solid #485a58;
+    padding: 10px;
+    border-radius: 10px;
+}
+.contact-input-div{
+    width: 100%;
+}
+.contact-icon i{
+    font-size: 10px;
+}
